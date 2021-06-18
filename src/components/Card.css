@@ -1,0 +1,24 @@
+.custom-text {
+  position: absolute;
+  bottom: 135px;
+  right: 0px;
+  padding-inline: 5px;
+}
+
+.heading{
+    color: rgb(15, 119, 38);
+}
+
+.filter-container{
+    margin-top: 40px;
+    padding-left: 30px;
+    display: flex;
+    justify-content: flex-start;
+    align-items:center
+
+}
+
+.filter-container input {
+    max-width: 300px;
+    margin-left: 20px;
+}
